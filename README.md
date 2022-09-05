@@ -6,5 +6,5 @@
 | Thomas Frivold | https://github.com/Tj12501 |
 | Erik Nygård | https://github.com/erny03
 | Ine Antonsen | https://github.com/ineant 
-| Jaime Montanares | https:github.com/jaimemontanares |
+| Jaime Montanares | https://github.com/jaimemontanares |
 
