@@ -4,3 +4,6 @@
 | Lukasz Kucharczyk | https://github.com/LukaszDK98 |
 | Josef Burkan | https://github.com/JosefBurkan |
 | Thomas Frivold | https://github.com/Tj12501 |
+| Erik Nygård | https://github.com/erny03
+| 
+| 
