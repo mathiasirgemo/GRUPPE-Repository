@@ -2,8 +2,8 @@
 |---|---|
 | Mathias Irgemo | [Mathias GitHub](https://github.com/mathiasirgemo) |
 | Lukasz Kucharczyk | https://github.com/LukaszDK98 |
+| Thomas Frivold | [Thomas GitHub](https://github.com/Tj12501) |
 | Josef Burkan | [Josef Github](https://github.com/JosefBurkan) |
-| Thomas Frivold. | https://github.com/Tj12501 |
 | Erik Nygård | [Erik GitHub](https://github.com/erny03) |
 | Ine Antonsen | https://github.com/ineant 
 | Jaime Montanares | [Jaime Montanares](https://github.com/jaimemontanares) |
