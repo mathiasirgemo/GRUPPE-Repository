@@ -5,8 +5,9 @@
 | Thomas Frivold | [Thomas GitHub](https://github.com/Tj12501) |
 | Josef Burkan | [Josef Github](https://github.com/JosefBurkan) |
 | Erik Nygård | [Erik GitHub](https://github.com/erny03) |
-| Ine Antonsen | https://github.com/ineant 
+| Ine Antonsen | [Ine GitHub](https://github.com/ineant) 
 | Jaime Montanares | [Jaime Montanares](https://github.com/jaimemontanares) |
+
 
 ### Møtereferat
 
