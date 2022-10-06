@@ -28,7 +28,7 @@ Fordelen med CSS i forhold til p-stil og canvas er at man kan lettere style klas
   
 canvas-style
 
-Canvas API gjør som man ha mulighet til å tegne grafikk via JavaScript og HTML når man bruker canvas elementet. blir ofte brukt i sammenheng med spill, animasjon og datavisualisering (MDN contributors, 2022). Fordelene med å bruke canvas er at det er lettere å være kreativ i hvordan en velger å forme en side med å plassere og lage elementer, som for eksempel sirkeler og andre geografiske symboler samt animasjoner. Norge flagget ble laget som lag som bygget på hverandre. Først et rødt rektangel som er basen, deretter hvitt horisontalt rektangel, hvitt vertikalt rektangel og tilslutt gjøre det samme bare med i stedet for hvit farge ble det byttet til blå farge.   
+Canvas API gjør som man ha mulighet til å tegne grafikk via JavaScript og HTML når man bruker canvas elementet. blir ofte brukt i sammenheng med spill, animasjon og datavisualisering (MDN contributors, 2022). Fordelene med å bruke canvas er at det er lettere å være kreativ i hvordan en velger å forme en side med å plassere og lage elementer, som for eksempel sirkeler og andre geografiske symboler samt animasjoner. Norge flagget ble laget som lag som bygget på hverandre. Først et rødt rektangel som en base, deretter hvitt horisontalt rektangel, hvitt vertikalt rektangel og det samme bare med blå farge.   
 
 Referanse liste: 
 
