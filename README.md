@@ -9,7 +9,7 @@ For å forstå hva oppgavene var har vi tatt i bruk kanbanboard i github project
 Rad 1: Læring - Denne raden la vi inn informasjon som er nyttig for å kunne fullføre prosjektet.
 Rad 2: Oppgaver - Dette var oppgavene som vi måtte gjøre
 Rad 3: Under arbeid - Når oppgavene ble startet på flyttes de over til under arbeid så gruppen har oversikt over hva som jobbes med
-Rad 4: Ferdig - Her tok hver medlem og flyttet sitt ark som var ferdig slik at gruppen visste hva som var igjen av 
+Rad 4: Ferdig - Her tok hver medlem og flyttet sitt ark som var ferdig slik at gruppen visste hva som var igjen av oppgavene
 
 5b en beskrivelse av prosessen for valg av relevante arbeidsoppgaver (se nedbryting i Karlsen) 
 
