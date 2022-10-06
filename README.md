@@ -1,22 +1,14 @@
-| Navn | URL |
-|---|---|
-<<<<<<< HEAD
-| Mathias Irgemo | https://github.com/mathiasirgemo |
-| Lukasz Kucharczyk | (https://github.com/LukaszDK98) |
-=======
+
 | Mathias Irgemo | [Mathias GitHub](https://github.com/mathiasirgemo) |
 | Lukasz Kucharczyk | https://github.com/LukaszDK98 |
->>>>>>> 191e30c9d9b155ea7fc73eeef4b02805075ba073
 | Josef Burkan | https://github.com/JosefBurkan |
 | Thomas Frivold. | https://github.com/Tj12501 |
 | Erik Nygård | https://github.com/erny03
-<<<<<<< HEAD
-| Ine Antonsen | https://github.com/ineant |
- 
- 
-=======
 | Ine Antonsen | https://github.com/ineant 
->>>>>>> 191e30c9d9b155ea7fc73eeef4b02805075ba073
+Flaggoppgaven
+
+
+Rapport
 
 
 ### Møtereferat

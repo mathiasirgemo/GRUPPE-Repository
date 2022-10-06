@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Josef</title>
+</head>
+<style>
+
+        .center {
+            margin-left: 45%;
+            margin-top: 30px;
+            }
+
+        .tittel {
+            margin-left: 46.5%;
+            margin-top: 10px;
+        }
+
+</style>
+<body>
+    <h1 class="tittel">Italia</h1>
+    
+    <div class="center">
+        <button><a href="http://127.0.0.1:5500/Flagg/benin.html">Benin</a></button>
+        <button><a href="http://127.0.0.1:5500/Flagg/danmark.html">Danmark</a></button>
+    </div>
+
+    <canvas id ="Flagg" width="1000" height="1000" style="margin-left: 45%;"> 
+    </canvas>
+
+
+    <script>
+        const canvas = document.getElementById("Flagg");
+        const ctx = canvas.getContext("2d");
+
+            //Funksjon for å lage rektangel
+        function rectangle(x, y, bredde, hoyde, fyllType, farge) {
+            ctx.fillStyle = farge;
+            ctx.fillRect(x,y,bredde,hoyde);
+
+        }
+
+
+            //Funksjon for å kalle på rektangelfunksjon
+        function testRectangle() {
+            
+            //x, y, bredde, høyde, fylltype, farge
+            rectangle(0, 48, 124, 104, "solid", "black");
+            rectangle(2, 50, 40, 100, "solid", "green");
+            rectangle(42, 50, 40, 100, "solid", "white");
+            rectangle(82, 50, 40, 100, "solid", "red");
+        }
+
+
+        testRectangle();
+
+    </script>
+        
+</body>
+</html>
+ 
