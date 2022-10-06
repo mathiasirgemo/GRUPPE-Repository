@@ -31,4 +31,5 @@ canvas-style
 Canvas API gjør som man ha mulighet til å tegne grafikk via JavaScript og HTML når man bruker canvas elementet. blir ofte brukt i sammenheng med spill, animasjon og datavisualisering (MDN contributors, 2022. Fordelene med å bruke cnavas er at det er lettere å forme en side med å plassere og lage elementer, som for eksempel sirkeler.  
 
 Referanse liste: 
+
 MDN contributors. (2.September 2022). Canvas API. Mdn web docs. https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API 
