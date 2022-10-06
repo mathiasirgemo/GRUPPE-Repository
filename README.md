@@ -18,7 +18,7 @@ Rad 4: Ferdig - Her tok hver medlem og flyttet sitt ark som var ferdig slik at g
 p - style
 
 HTML (HyperText Markup Language) er basisen for all internett, og grunnlaget for alt når vi henviser dokumenter til hverandre. Tekst og andre visuelle elementer defineres her med markør "markup" tekster av forskjellige varianter for å gi dem roller og egenskaper. 
-Vi brukte HTML for å lage lette "horisontale"-flagg. Tekstblokker ble lagt oppå hverandre visuelt med farge koder og størrelse, samt posisjon. De fleste i gruppen fant p-style nokså lett, det ble straks vanskeligere når vi prøvde å lage "vertikale"-flagg. Vi lærte at det lot seg ikke gjøre alene i bare HTML. 
+Vi brukte HTML for å lage lette "horisontale"-flagg. Tekstblokker ble lagt vertikalt oppå hverandre visuelt med farge koder og størrelse, samt posisjon. De fleste i gruppen fant p-style nokså lett, det ble straks vanskeligere når vi prøvde å lage "vertikale"-flagg. Vi lærte at det lot seg ikke gjøre alene i bare HTML. 
 
   
 css - style
