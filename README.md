@@ -22,6 +22,7 @@ Vi brukte HTML for å lage lette "horisontale"-flagg. Tekstblokker ble lagt opp�
 https://developer.mozilla.org/en-US/docs/Web/HTML
   
 css - style
+Fordelen med CSS i forhold til p-stil og canvas er at man kan lettere style klasser og flere elementer sammen. I CSS kan man ta for seg grupper av elementer og lage dem til en klasse og gi hele klassen en betegnelse på hvordan det skal se ut, i motsetning til p-stil må man ta hvert element. I tillegg kan CSS stile flere HTML elementer enn bare P elementet eller Canvas elementet. En ulempe med CSS er at hvis man bare styler med CSS kan ting crashe litt sammen, derfor kan det være bedre og også bruke Canvas siden stilen ikke vil crashe med CSS-stilen.
   
   
 canvas-style
