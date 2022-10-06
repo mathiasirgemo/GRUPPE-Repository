@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSSFlagg</title>
+        <style>
+            body{
+                background-color: gray;
+            }
+            .flag{
+                background-color: white;
+                width: 600px;
+                height: 300px;
+                position: relative;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            .triangledown{
+                width: 0;
+                height: 0;
+                border-left: 240px solid transparent;
+                border-right: 240px solid transparent;
+                border-top: 120px solid blue;
+                position: absolute;
+                margin-left: 60px
+            }
+            .triangleup{
+                width: 0;
+                height: 0;
+                border-left: 240px solid transparent;
+                border-right: 240px solid transparent;
+                border-bottom: 120px solid blue;
+                position: absolute;
+                margin-left: 60px;
+                margin-top: 30%;
+            }
+            .triangleleft{
+                width: 0;
+                height: 0;
+                border-top: 120px solid transparent;
+                border-right: 240px solid blue;
+                border-bottom: 120px solid transparent;
+                position: absolute;
+                margin-left: 360px;
+                margin-top: 30px;
+            }
+            .triangleright{
+                width: 0;
+                height: 0;
+                border-top: 120px solid transparent;
+                border-left: 240px solid blue;
+                border-bottom: 120px solid transparent;
+                position: absolute;
+                margin-top: 30px;
+            }
+            .line{
+                width: 40px;
+                height: 120px;
+                background: red;
+                transform: skew(-63deg);
+                position: absolute;
+                margin-left: 117px;
+                margin-top: 180px;
+            }
+            .line2{
+                width: 40px;
+                height: 120px;
+                background: red;
+                transform: skewY(45deg);
+                transform: skewX(-63deg);
+                position: absolute;
+                margin-left: 442px;
+            }
+            .line3{
+                width: 40px;
+                height: 120px;
+                position: absolute;
+                margin-left: 77px;
+                background: red;
+                clip-path: polygon(0 17%, 100% 0, 100% 100%, 0 100%);
+                transform: skew(63deg);
+            }
+            .line4{
+                width: 40px;
+                height: 120px;
+                position: absolute;
+                background: red;
+                margin-left: 482px;
+                margin-top: 180px;
+                clip-path: polygon(0 0, 100% 0, 100% 83%, 0 100%);
+                transform: skew(63deg);
+            }
+            .hor1{
+                width: 600px;
+                height: 100px;
+                background: white;
+                margin-top: 100px;
+                position: absolute;
+            }
+            .ver1{
+                width: 100px;
+                height: 300px;
+                background: white;
+                position: absolute;
+                left: 250px;
+            }
+            .ver2{
+                width: 60px;
+                height: 300px;
+                background: red;
+                position: absolute;
+                left: 20px;
+            }
+            .hor2{
+                width: 600px;
+                height: 60px;
+                background: red;
+                position: absolute;
+                margin-top: 120px;
+                margin-left: -250px;
+            }
+            h1{
+                text-align: center;
+            }
+            .Tunisia{
+                width: 600px;
+                height: 400px;
+                background: #e70013;
+                position: relative;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            .circle{
+                width: 200px;
+                height: 200px;
+                background: #FFFFFF;
+                position: absolute;
+                border-radius: 50%;
+                margin-left: 200px;
+                margin-top: 100px;
+            }
+            .moon{
+                width: 110px;
+                height: 110px;
+                position: absolute;
+                border-radius: 50%;
+                margin-left: 65px;
+                margin-top: 45px;
+                box-shadow: -20px 0 0 15px #e70013;
+            }
+            .star{
+               margin: 85px 80px;
+               position: absolute;
+               display: block;
+               color: #e70013;
+               width: 0px;
+               height: 0px;
+               border-right: 40px solid transparent;
+               border-bottom: 28px solid #e70013;
+               border-left: 40px solid transparent;
+               transform: rotate(35deg); 
+               transform: rotate(-60deg);
+            }
+            .star::before{
+                border-bottom: 32px solid #e70013;
+                border-left: 12px solid transparent;
+                border-right: 12px solid transparent;
+                position: absolute;
+                height: 0;
+                width: 0;
+                top: -18px;
+                left: -26px;
+                display: block;
+                content: '';
+                transform: rotate(-35deg);
+            }
+            .star::after{
+                position: absolute;
+                display: block;
+                color:#e70013;
+                top: 1px;
+                left: -42px;
+                width: 0px;
+                height: 0px;
+                border-right: 40px solid transparent;
+                border-bottom: 28px solid #e70013;
+                border-left: 40px solid transparent;
+                transform: rotate(-70deg);
+                content: '';  
+            }
+        </style>
+    </head>
+    <body>
+        <h1>United Kingdom</h1>
+        <div class="flag">
+            <div class="triangledown"></div>
+            <div class="triangleup"></div>
+            <div class="triangleleft"></div>
+            <div class="triangleright"></div>
+            <div class="line"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+            <div class="line4"></div>
+            <div class="hor1"></div>
+            <div class="ver1">
+                <div class="ver2"></div>
+                <div class="hor2"></div>
+            </div>
+        </div>
+        <br><br><br>
+        <h1>Tunisia</h1>
+        <p><div class="Tunisia">
+            <div class="circle">
+                <div class="moon"></div>
+                <div class="star"></div>
+            </div>
+        </div></p>
+    </body>
+</html>
