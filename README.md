@@ -14,6 +14,7 @@ Rad 4: Ferdig - Her tok hver medlem og flyttet sitt ark som var ferdig slik at g
 Først og fremst delte vi prosjektet inn i en hovedkategori "Prosjekt flagg" etterfulget av underkategoriene "Github metoder" ,"Lag flagg" og "arbeidsoppgaver beskrivelser". Dette var for å lage et tydelig skille mellom de to mest åpenbare prosjektdelene, og for å vite hva vi skal lage arbeidsoppgaver utifra. Deretter brøyt vi ned de to prosjektdelene til 5 arbeidsoppgaver.
 
 Prosjekt flagg:
+
     - Lag flagg:
         - p - style
         - css - style
