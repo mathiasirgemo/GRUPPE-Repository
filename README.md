@@ -11,7 +11,20 @@ Rad 2: Oppgaver - Dette var oppgavene som vi måtte gjøre
 Rad 3: Under arbeid - Når oppgavene ble startet på flyttes de over til under arbeid så gruppen har oversikt over hva som jobbes med
 Rad 4: Ferdig - Her tok hver medlem og flyttet sitt ark som var ferdig slik at gruppen visste hva som var igjen av oppgavene
 
-5b en beskrivelse av prosessen for valg av relevante arbeidsoppgaver (se nedbryting i Karlsen) 
+Først og fremst delte vi prosjektet inn i en hovedkategori "Prosjekt flagg" etterfulget av underkategoriene "Github metoder" ,"Lag flagg" og "arbeidsoppgaver beskrivelser". Dette var for å lage et tydelig skille mellom de to mest åpenbare prosjektdelene, og for å vite hva vi skal lage arbeidsoppgaver utifra. Deretter brøyt vi ned de to prosjektdelene til 5 arbeidsoppgaver.
+
+Prosjekt flagg:
+    - Lag flagg:
+        - p - style
+        - css - style
+        - canvas - style
+
+    
+    - Github metoder:
+        - Github projects
+
+    - arbeidsoppgaver beskrivelser:
+        - beskrivelse på de ulike prosessene bak prosjektplanlegging
 
 5c en beskrivelse med definisjoner og refleksjon rundt prosessen for implementering av de 3 løsningene og en analyse av forskjeller, fordeler og ulemper med de tre løsningene 4a), 4b) og 4c) 
 
