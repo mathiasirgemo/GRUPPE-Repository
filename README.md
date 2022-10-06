@@ -5,11 +5,11 @@ Flaggoppgaven
 Vi valgte å ta i bruk GitHub projects for å få en oversikt over hvilke oppgaver som skulle gjøres. Vi delte hver flaggtype inn i 3 oppgaver og omgjorde disse til issues. 
 Deretter delte vi ut oppgavene til alle på gruppen, dette var en enkel prossess fordi vi ble enige i gruppen om at alle burde prøve seg ut på de forskjellige typene for å lære.
 
-For å forstå hva oppgavene var har vi tatt i bruk kanbanboard i github projects. Dette er fordi det er lett oversiktlig og enkelt å dele inn. Vi lagde 4 rader.<br>
-Rad 1: Læring - Denne raden la vi inn informasjon som er nyttig for å kunne fullføre prosjektet.<br>
-Rad 2: Oppgaver - Dette var oppgavene som vi måtte gjøre. <br>
-Rad 3: Under arbeid - Når oppgavene ble startet på flyttes de over til under arbeid så gruppen har oversikt over hva som jobbes med.<br>
-Rad 4: Ferdig - Her tok hver medlem og flyttet sitt ark som var ferdig slik at gruppen visste hva som var igjen av oppgavene.<br>
+For å forstå hva oppgavene var har vi tatt i bruk kanbanboard i github projects. Dette er fordi det er lett oversiktlig og enkelt å dele inn. Vi lagde 4 rader.
+Rad 1: Læring - Denne raden la vi inn informasjon som er nyttig for å kunne fullføre prosjektet.
+Rad 2: Oppgaver - Dette var oppgavene som vi måtte gjøre
+Rad 3: Under arbeid - Når oppgavene ble startet på flyttes de over til under arbeid så gruppen har oversikt over hva som jobbes med
+Rad 4: Ferdig - Her tok hver medlem og flyttet sitt ark som var ferdig slik at gruppen visste hva som var igjen av oppgavene
 
 5b en beskrivelse av prosessen for valg av relevante arbeidsoppgaver (se nedbryting i Karlsen) 
 
@@ -28,7 +28,8 @@ https://developer.mozilla.org/en-US/docs/Web/CSS
   
 canvas-style
 
-Canvas API gjør som man ha mulighet til å tegne grafikk via JavaScript og HTML når man bruker canvas elementet. blir ofte brukt i sammenheng med spill, animasjon og datavisualisering (MDN contributors, 2022. Fordelene med å bruke cnavas er at det er lettere å forme en side med å plassere og lage elementer, som for eksempel sirkeler. <br>  
+Canvas API gjør som man ha mulighet til å tegne grafikk via JavaScript og HTML når man bruker canvas elementet. blir ofte brukt i sammenheng med spill, animasjon og datavisualisering (MDN contributors, 2022). Fordelene med å bruke cnavas er at det er lettere å forme en side med å plassere og lage elementer, som for eksempel sirkeler.  
 
+Referanse liste: 
 
- MDN contributors. (2.September 2022). Canvas API. Mdn web docs. https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API 
+MDN contributors. (2.September 2022). Canvas API. Mdn web docs. https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API 
