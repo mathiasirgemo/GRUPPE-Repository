@@ -20,12 +20,11 @@ Prosjekt flagg:
         - css - style
         - canvas - style
 
-    
     - Github metoder:
         - Github projects
 
     - arbeidsoppgaver beskrivelser:
-        - beskrivelse på de ulike prosessene bak prosjektplanlegging
+        - beskrivelse av de ulike prosessene bak prosjektplanlegging
 
 5c en beskrivelse med definisjoner og refleksjon rundt prosessen for implementering av de 3 løsningene og en analyse av forskjeller, fordeler og ulemper med de tre løsningene 4a), 4b) og 4c) 
 
