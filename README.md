@@ -16,4 +16,5 @@ css - style
   
   
 canvas-style
-Canvas API gjør som man ha mulighet til å tegne grafikk via JavaScript og HTML når man bruker canvas elementet. blir ofte brukt i sammenheng med spill, animasjon og datavisualisering. 
+
+Canvas API gjør som man ha mulighet til å tegne grafikk via JavaScript og HTML når man bruker canvas elementet. blir ofte brukt i sammenheng med spill, animasjon og datavisualisering.
