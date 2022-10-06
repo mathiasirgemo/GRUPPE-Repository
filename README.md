@@ -33,4 +33,5 @@ Canvas API gjør som man ha mulighet til å tegne grafikk via JavaScript og HTML
 Referanse liste: 
 
 MDN contributors. (13.September 2022) HTML (HyperText Markup Language). Mdn web docs. https://developer.mozilla.org/en-US/docs/Web/HTML
+
 MDN contributors. (2.September 2022). Canvas API. Mdn web docs. https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API 
