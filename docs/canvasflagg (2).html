@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Canvas-type Flagg(testcase #3)</title>
+        <style> 
+            .flaggTyper {
+                border: 10px ridge rgba(86, 63, 8, 0.674);
+                background-color: rgb(255, 255, 255);
+                padding: .5rem;
+                display: flex;
+                flex-direction: column;
+                width: 320px;
+                margin:auto;
+            }
+        </style> 
+    </head>
+
+    <body>
+        <center> 
+            <canvas id ="Canvas-type Flagg(testcase #3)" width="500px" height="500px" display="flex"; margin="auto";>
+            </canvas>
+        </center>
+
+        <script>
+            const canvas = document.getElementById("Canvas-type Flagg(testcase #3)");
+            const ctx = canvas.getContext("2d");
+
+
+                //Funksjon for å lage boks
+            function boks(x, y, bredde, hoyde, fyllType, farge) {
+                
+                ctx.fillStyle = farge;
+                ctx.fillRect(x,y,bredde,hoyde);
+            }
+
+                //Funksjon for å kalle på boks-funksjon
+            function testBoks() {
+
+                //x, y, bredde, høyde, fylltype, farge
+                boks(0, 98, 324, 218, "solid", "black");
+                boks(2, 100, 320, 214, "solid", "red");
+                boks(2, 100, 213, 214, "solid", "white");
+                boks(2, 100, 106, 214, "solid", "blue");
+            }
+
+            testBoks();
+
+        </script>
+            <p style="text-align: center; text-decoration: underline;">
+                <strong>Frankrike</strong>
+            </p>
+    </body>
+</html>
