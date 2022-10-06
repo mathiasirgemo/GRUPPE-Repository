@@ -3,6 +3,8 @@ Flaggoppgaven
 
 
 Rapport
+
+
 5a en beskrivelse av prosessen for valg av “Github projects” og mal for prosjektadministrasjon, samt en beskrivelse av strukturering av “bord” eller “tabell” i “Github projects” (relater til Kanban, Scrum, Scrumban eller annen type metode) 
 
 5b en beskrivelse av prosessen for valg av relevante arbeidsoppgaver (se nedbryting i Karlsen) 
