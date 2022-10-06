@@ -1,9 +1,15 @@
 Flaggoppgaven
 
-Rapport
+### Rapport
 
+Vi valgte å ta i bruk GitHub projects for å få en oversikt over hvilke oppgaver som skulle gjøres. Vi delte hver flaggtype inn i 3 oppgaver og omgjorde disse til issues. 
+Deretter delte vi ut oppgavene til alle på gruppen, dette var en enkel prossess fordi vi ble enige i gruppen om at alle burde prøve seg ut på de forskjellige typene for å lære.
 
-5a en beskrivelse av prosessen for valg av “Github projects” og mal for prosjektadministrasjon, samt en beskrivelse av strukturering av “bord” eller “tabell” i “Github projects” (relater til Kanban, Scrum, Scrumban eller annen type metode) 
+For å forstå hva oppgavene var har vi tatt i bruk kanbanboard i github projects. Dette er fordi det er lett oversiktlig og enkelt å dele inn. Vi lagde 4 rader.
+Rad 1: Læring - Denne raden la vi inn informasjon som er nyttig for å kunne fullføre prosjektet.
+Rad 2: Oppgaver - Dette var oppgavene som vi måtte gjøre
+Rad 3: Under arbeid - Når oppgavene ble startet på flyttes de over til under arbeid så gruppen har oversikt over hva som jobbes med
+Rad 4: Ferdig - Her tok hver medlem og flyttet sitt ark som var ferdig slik at gruppen visste hva som var igjen av 
 
 5b en beskrivelse av prosessen for valg av relevante arbeidsoppgaver (se nedbryting i Karlsen) 
 
