@@ -24,7 +24,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 css - style
 
 Fordelen med CSS i forhold til p-stil og canvas er at man kan lettere style klasser og flere elementer sammen. I CSS kan man ta for seg grupper av elementer og lage de til en klasse og gi hele klassen en betegnelse på hvordan det skal se ut. Med p-stil må man ta hvert element. I tillegg kan CSS style flere HTML elementer enn bare P elementet eller Canvas elementet. En ulempe med CSS er at hvis man bare styler med CSS kan ting crashe litt sammen, hvis ikke stil-elementene spesifiseres nok. Derfor kan det være lurt å også bruke Canvas med CSS, for å lettere skille mellom ting.
-https://developer.mozilla.org/en-US/docs/Web/CSS
+
   
 canvas-style
 
@@ -32,4 +32,5 @@ Canvas API gjør som man ha mulighet til å tegne grafikk via JavaScript og HTML
 
 Referanse liste: 
 
+MDN contributors. (13.September 2022) HTML (HyperText Markup Language). Mdn web docs. https://developer.mozilla.org/en-US/docs/Web/HTML
 MDN contributors. (2.September 2022). Canvas API. Mdn web docs. https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API 
